@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=120&color=auto&text=풀?타입?개발자&section=footer&textBg=false&fontColor=auto&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&height=120&color=auto&text=늙고병든_개발자_목표&section=footer&textBg=false&fontColor=auto&fontSize=60)
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 흠냐냐 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 매일매일 조금씩 꾸준히 성장하는 개발자가 목표! </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 할수있다흑흑 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 매일매일 조금씩 꾸준히 성장 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
