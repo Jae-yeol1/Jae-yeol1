@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=120&color=auto&text=늙고병든_개발자_목표&section=footer&textBg=false&fontColor=auto&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&height=120&color=auto&text=꾸준함이 곧 생명.&section=footer&textBg=false&fontColor=auto&fontSize=60)
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 할수있다흑흑 </h2>  
