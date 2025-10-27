@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=120&color=auto&text=%EA%BE%B8%EC%A4%80%ED%95%A8%EC%9D%B4%20%EA%B3%A7%20%EC%83%9D%EB%AA%85&section=footer&textBg=false&fontColor=auto&fontSize=60)
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 할수있다흑흑 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 매일매일 조금씩 꾸준히 성장 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 조금씩이라도꾸준히 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 성장일지_ </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
